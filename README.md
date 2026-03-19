@@ -52,3 +52,8 @@ Reasoning and trade-offs for design choices (identity, validation, tool choices,
 6. Conversational AI for vessel search?
 7. Preventing LLM hallucinations?
 8. Evaluation methods for AI-powered vessel search?
+
+
+Copyright [Year] [Your Name]. All rights reserved.
+
+This repository is provided solely for review. No usage, modification, distribution, or reproduction of this code is allowed for any purpose without explicit written permission from the author.
