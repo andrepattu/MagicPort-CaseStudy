@@ -54,6 +54,6 @@ Reasoning and trade-offs for design choices (identity, validation, tool choices,
 8. Evaluation methods for AI-powered vessel search?
 
 
-Copyright [Year] [Your Name]. All rights reserved.
+Copyright [2026] [Andre Lim]. All rights reserved.
 
 This repository is provided solely for review. No usage, modification, distribution, or reproduction of this code is allowed for any purpose without explicit written permission from the author.
